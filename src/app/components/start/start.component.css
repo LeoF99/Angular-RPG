@@ -1,0 +1,18 @@
+.container-fluid{
+    height: 100vh;
+    background: rgba(0,0,0,0.6);
+    padding-top: calc(50vh - 220px);
+}
+
+.container-fluid h1{
+    font-size: 60px;
+}
+
+.container-fluid a{
+    font-size: 18px;
+}
+
+.container-fluid p{
+    padding-top: 10px;
+    font-size: 15px;
+}
